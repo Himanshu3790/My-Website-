@@ -1,0 +1,26 @@
+#home {
+    background:linear-gradient(red,orange);
+    height: 600px;
+    width: 100%;
+    text-align: center;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+body {
+    text-align: center;
+margin: 0;
+}
+#list {
+    list-style: none;
+    cursor: grab;
+}
+.link {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+h1 {
+    font-size: 50px;
+}
